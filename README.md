@@ -1,4 +1,5 @@
-<img src="readme/weinStag_black.gif" alt="Hero image">
+
+![weinstag_black](https://github.com/weinStag/weinStag/assets/102031258/3c637690-4069-438e-8e44-1f51d61f2ce0)
 
 # About me 💭
 - 👩🏻‍💻 Full Cycle Software Engineer<br/>
