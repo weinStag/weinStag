@@ -1,9 +1,10 @@
-<img src="readme/weinStag Black.gif" alt="Hero image">
+<img src="readme/weinStag_black.gif" alt="Hero image">
 
 # About me 💭
 - 👩🏻‍💻 Full Cycle Software Engineer<br/>
 - 👩🏻‍🎓 Student of Computer Science at [Federal University of São Paulo](https://www.unifesp.br/), Brazil<br/>
 - 📚 Currently working and learning about full stack web developing!<br/>
+- 
 
 # Github Stats 🔥
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
