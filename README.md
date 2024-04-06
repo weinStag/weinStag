@@ -1,16 +1,17 @@
 
 ![weinstag_black](https://github.com/weinStag/weinStag/assets/102031258/3c637690-4069-438e-8e44-1f51d61f2ce0)
 
-# About me 💭
-- 👩🏻‍💻 Full Cycle Software Engineer<br/>
-- 👩🏻‍🎓 Student of Computer Science at [Federal University of São Paulo](https://www.unifesp.br/), Brazil<br/>
-- 📚 Currently working and learning about full stack web developing!<br/>
 
 <p align="center">
     <a href="https://twitter.com/weinStag" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/weinStag/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
     <a href="mailto:contato.diasvinicius@hotmail.com" alt="Contact me"><img src="readme/mail-fill.svg"></a>
-  </p>
+</p>
+
+# About me 💭
+- 👩🏻‍💻 Full Cycle Software Engineer<br/>
+- 👩🏻‍🎓 Student of Computer Science at [Federal University of São Paulo](https://www.unifesp.br/), Brazil<br/>
+- 📚 Currently working and learning about full stack web developing!<br/>
 
 
 # Github Stats 🔥
