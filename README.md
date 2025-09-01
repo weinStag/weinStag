@@ -4,7 +4,6 @@
 
 <p align="center">
     <a href="mailto:contato.diasvinicius@hotmail.com" alt="Contact me" target="_blank"><img src="readme/mail-fill.svg"></a>
-    <a href="https://twitter.com/weinStag" alt="Twitter" target="_blank"><img src="readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/weinStag/" alt="Linkedin" target="_blank"><img src="readme/linkedin-fill.svg"></a>
 </p>
 
