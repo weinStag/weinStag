@@ -9,7 +9,7 @@
 
 # About me 💭
 - 👩🏻‍💻 Software Engineer [@Embraer](https://www.embraer.com/)<br/>
-- 👩🏻‍🎓 Master’s Degree in Computer Science (in progress) at [Federal University of São Paulo](https://www.unifesp.br/), Brazil<br/>
+- 👩🏻‍🎓 Computer Science Master’s Degree [@Federal University of São Paulo](https://www.unifesp.br/) ~ In Progress<br/>
 
 # Github Stats 🔥
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
