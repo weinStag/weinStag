@@ -8,7 +8,7 @@
 </p>
 
 # About me 💭
-- 👩🏻‍💻 Software Engineer on Aircraft Industry<br/>
+- 👩🏻‍💻 Software Engineer @ [Embraer](https://www.embraer.com/)<br/>
 - 👩🏻‍🎓 Master’s Degree in Computer Science (in progress) at [Federal University of São Paulo](https://www.unifesp.br/), Brazil<br/>
 
 # Github Stats 🔥
