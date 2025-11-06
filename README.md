@@ -2,7 +2,7 @@
 ![weinstag_black](https://github.com/weinStag/weinStag/assets/102031258/3c637690-4069-438e-8e44-1f51d61f2ce0)
 
 # About me 💭
-- 👩🏻‍💻 Software Engineer [@Embraer](https://www.embraer.com/)<br/>
+- 👩🏻‍💻 Software Engineer allocated [@Monument](https://monument.io/)<br/>
 - 👩🏻‍🎓 Computer Science Master’s Degree [@Federal University of São Paulo](https://www.unifesp.br/) ~ In Progress<br/>
 
 # Github Stats 🔥
